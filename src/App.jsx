@@ -24,16 +24,18 @@ export default function App() {
         <p>Price: ₹199</p>
         <button>Buy Now</button>
       </div>
+
+      <div style={{
+        border: "1px solid #ccc",
+        padding: "15px",
+        marginTop: "20px",
+        borderRadius: "10px"
+      }}>
+        <h2>Printed T-Shirt</h2>
+        <p>Price: ₹499</p>
+        <button>Buy Now</button>
+      </div>
+
     </div>
   );
 }
-<div style={{
-  border: "1px solid #ccc",
-  padding: "15px",
-  marginTop: "20px",
-  borderRadius: "10px"
-}}>
-  <h2>Printed T-Shirt</h2>
-  <p>Price: ₹499</p>
-  <button>Buy Now</button>
-</div>
