@@ -37,3 +37,4 @@ export default function App() {
   <p>Price: ₹499</p>
   <button>Buy Now</button>
 </div>
+}
